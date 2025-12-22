@@ -1,6 +1,6 @@
 ---
 
-### **2️⃣ Networking/basics.md**
+### Networking-Basics**
 ```markdown
 # Networking Basics
 
