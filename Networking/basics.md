@@ -1,7 +1,5 @@
 ---
 
-### **Networking-Basics**
-
 # Networking Basics
 
 Networking connects computers and devices to share data.
