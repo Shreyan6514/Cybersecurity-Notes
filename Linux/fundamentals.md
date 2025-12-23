@@ -11,6 +11,7 @@ Linux is a powerful open-source operating system used in servers, desktops, and 
 - **Permissions:** `rwx` for files and directories
 - **Users & Groups:** `adduser`, `usermod`, `groups`
 
+---
 ## Basic Commands
 ```bash
 pwd      # Print working directory
