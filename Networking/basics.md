@@ -11,6 +11,7 @@ Networking connects computers and devices to share data.
 - **DNS:** Converts domain names to IP addresses
 - **Protocols:** HTTP, HTTPS, TCP, UDP, ICMP
 
+---
 ## Common Commands
 ```bash
 ping google.com       # Check connectivity
