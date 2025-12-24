@@ -20,7 +20,7 @@ The browser sends a request → the server responds → content is displayed.
 
 ---
 
-## ⚙️ Key Components
+## 🔑 Key Components
 
 ### 🖥 Web Browser
 Used to access websites  
