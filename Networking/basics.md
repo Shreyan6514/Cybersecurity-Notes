@@ -1,10 +1,10 @@
 ---
 
-# Networking Basics
+# 🛜 Networking Basics
 
 Networking connects computers and devices to share data.
 
-## Key Concepts
+## 🔐 Key Concepts
 - **IP Address:** Unique identifier for devices (IPv4, IPv6)
 - **Subnet:** Divides networks into smaller parts
 - **Gateway:** Router to other networks
@@ -12,7 +12,7 @@ Networking connects computers and devices to share data.
 - **Protocols:** HTTP, HTTPS, TCP, UDP, ICMP
 
 ---
-## Common Commands
+## ✏️ Common Commands
 ```bash
 ping google.com       # Check connectivity
 traceroute google.com # Trace network path
