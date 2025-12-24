@@ -1,6 +1,5 @@
 ---
 
-### **Web-basics**
 # Web Basics
 
 The web is a system of interlinked documents accessed via browsers.
