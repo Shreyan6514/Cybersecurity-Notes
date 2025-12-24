@@ -1,10 +1,10 @@
 ---
 
-# Linux Fundamentals
+# ⚙️ Linux Fundamentals
 
 Linux is a powerful open-source operating system used in servers, desktops, and embedded systems.
 
-## Key Concepts
+## 🔑 Key Concepts
 - **Distributions:** Ubuntu, Debian, CentOS, Fedora
 - **Shell:** Command-line interface (bash, zsh)
 - **Filesystem:** /home, /etc, /var, /usr
@@ -12,7 +12,7 @@ Linux is a powerful open-source operating system used in servers, desktops, and 
 - **Users & Groups:** `adduser`, `usermod`, `groups`
 
 ---
-## Basic Commands
+## 📄 Basic Commands
 ```bash
 pwd      # Print working directory
 ls       # List files
