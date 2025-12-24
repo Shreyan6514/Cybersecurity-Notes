@@ -2,7 +2,7 @@
 
 This repository contains my personal learning notes while studying
 cybersecurity fundamentals through hands-on labs and structured learning
-(TryHackMe – Pre Security path).
+(TryHackMe).
 
 ## Topics Covered
 - Networking fundamentals
