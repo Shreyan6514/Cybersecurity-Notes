@@ -1,22 +1,91 @@
 ---
 
-# Web Basics
+# 🌐 Web Basics
 
-The web is a system of interlinked documents accessed via browsers.
+The web is a global network that allows users to access and share information through websites, applications, and online services.
 
-## Key Components
-- **Web Browser:** Chrome, Firefox, Safari
-- **Web Server:** Hosts websites
-- **HTTP/HTTPS:** Communication protocols
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Server-side logic
+This document covers the foundational concepts needed to understand how the web works.
 
-## Next Steps
-- [HTML Basics](html-basics.md)
-- [CSS Basics](css-basics.md)
-- [JavaScript Basics](js-basics.md)
+---
 
-## Tips
-- Start building small web projects.
-- Experiment with HTML, CSS, and JavaScript.
-- Use browser DevTools to inspect and debug.
+## 🧩 What is the Web?
+
+The web is built on three core ideas:
+
+- **Clients** → Users or browsers that request information  
+- **Servers** → Machines that store and send data  
+- **Networks** → The connection between them
+
+The browser sends a request → the server responds → content is displayed.
+
+---
+
+## ⚙️ Key Components
+
+### 🖥 Web Browser
+Used to access websites  
+Examples: Chrome, Firefox, Safari, Edge
+
+### 🗄 Web Server
+Hosts websites and handles requests  
+Examples: Apache, Nginx, IIS
+
+### 🔐 Protocols
+Control how data is transferred
+
+- **HTTP** — Unencrypted communication
+- **HTTPS** — Secure & encrypted communication (TLS/SSL)
+
+---
+
+## 🧱 Website Structure
+
+### 🎨 Frontend (Client-Side)
+Runs in the browser
+
+- HTML — Structure
+- CSS — Styling
+- JavaScript — Interactivity
+
+### ⚙️ Backend (Server-Side)
+Handles logic and data
+
+- Databases
+- APIs
+- Authentication
+- Business logic
+
+---
+
+## 🔗 Request–Response Cycle (Simplified)
+
+1️. User enters a URL  
+2️. Browser sends a request  
+3️. Server processes it  
+4️. Server returns a response  
+5️. Browser displays the page
+
+This is the foundation of how web apps work.
+
+---
+
+## 🚀 Recommended Learning Path (Coming Soon)
+
+These topics will be added as separate files:
+
+- HTML Basics — `html-basics.md`
+- CSS Basics — `css-basics.md`
+- JavaScript Basics — `js-basics.md`
+
+---
+
+## 💡 Tips for Beginners
+
+- Build small projects (portfolio, blog, landing page)
+- Experiment in browser DevTools
+- Practice writing clean HTML & CSS
+- Learn how requests & responses work
+
+---
+
+📌 *This file is part of my learning roadmap for Web & Cybersecurity fundamentals.*
