@@ -18,10 +18,12 @@ Linux is a powerful open-source operating system used in servers, desktops, and 
 echo     # Output any text that we provide
 whoami   # Find out what user we're currently logged in as
 
-cat      # Concatenate
-pwd      # Print working directory
-ls       # List files
-cd       # Change directory
-mkdir    # Make directory
-rm       # Remove file or directory
-chmod    # Change permissions
+ls           # List files
+cd           # Change directory
+cat          # Concatenate
+pwd          # Print working directory
+find         # Search for files and directories
+
+mkdir        # Make directory
+rm           # Remove file or directory
+chmod        # Change permissions
