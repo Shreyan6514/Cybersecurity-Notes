@@ -34,7 +34,7 @@ Linux provides powerful command-line tools to search files and text inside files
 
 ---
 
-### 🗂 Searching for Files — `find`
+### 🗂 Searching for Files - `find`
 
 `find` searches files by name, type, size, or path.
 
@@ -70,7 +70,7 @@ find . -size +10M
 
 ---
 
-### 🧾 Searching Inside Files — `grep`
+### 🧾 Searching Inside Files - `grep`
 
 `grep` searches for matching text patterns.
 
