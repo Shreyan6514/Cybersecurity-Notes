@@ -25,7 +25,7 @@ pwd          # Print working directory
 mkdir        # Make directory
 rm           # Remove file or directory
 chmod        # Change permissions
-
+```
 ---
 
 ## 🔍 Searching Files & Text in Linux
