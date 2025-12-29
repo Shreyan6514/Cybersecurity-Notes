@@ -14,6 +14,11 @@ Linux is a powerful open-source operating system used in servers, desktops, and 
 ---
 ## 📄 Basic Commands
 ```bash
+
+echo     # Output any text that we provide
+whoami   # Find out what user we're currently logged in as
+
+cat      # Concatenate
 pwd      # Print working directory
 ls       # List files
 cd       # Change directory
